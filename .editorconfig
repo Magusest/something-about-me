@@ -1,0 +1,10 @@
++ root = true
++
++ [*]
++ charset = utf-8
++ intend_style = space
++ intend_size = 2
++ end_of_line = if
++ trim_trailing_whitespace = true
++ insert_final_newline = true
++ 
